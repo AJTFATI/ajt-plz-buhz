@@ -2,10 +2,10 @@ export const SITE = {
   website: "https://alexanderjtaylor.com/", 
   author: "Alexander J. Taylor",
   profile: "https://alexanderjtaylor.com/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
+  desc: "A Florida man finds a computer",
   title: "alexanderjtaylor.com",
   ogImage: "astropaper-og.jpg",
-  lightAndDarkMode: false,
+  lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
